@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DivyamSingh18
-- 👀 I’m interested in Androi and Web Development.
+- 👀 I’m interested in Android and Web Development.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 Reach me at 7888472926
