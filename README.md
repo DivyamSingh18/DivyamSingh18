@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 📫 Reach me at 7888472926
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DivyamSingh18)
 
 <!---
 DivyamSingh18/DivyamSingh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
