@@ -2,7 +2,6 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Python.
 - 📫 Reach me at 7888472926
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 <!---
 DivyamSingh18/DivyamSingh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
