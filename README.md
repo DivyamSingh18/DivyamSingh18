@@ -5,9 +5,9 @@
 
 ![tenor](https://user-images.githubusercontent.com/64833579/128040294-1d7d4d32-4f7b-461b-bb4a-3dcc1a2d85ab.gif)
 - while noSuccess: \
-   & tryAgain() \
-    if Dead:  \
-      break 
+   &nbsp; tryAgain() \
+   &nbsp; if Dead:  \
+   &nbsp;&nbsp;   break 
 
 
 <!---
