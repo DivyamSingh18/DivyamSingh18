@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 📫 Reach me at 7888472926
 
-
-![tenor](https://user-images.githubusercontent.com/64833579/128039282-0e6645bd-a5ed-4631-8df1-04979ada3f51.gif)
-
+![tenor](https://user-images.githubusercontent.com/64833579/128040294-1d7d4d32-4f7b-461b-bb4a-3dcc1a2d85ab.gif)
 
 
 
