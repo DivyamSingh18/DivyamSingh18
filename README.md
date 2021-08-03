@@ -4,7 +4,7 @@
 - 📫 Reach me at 7888472926
 
 
-![tenor](https://user-images.githubusercontent.com/64833579/128039088-9a5bec60-68a5-4a66-be77-26502d89687c.gif)
+![tenor](https://user-images.githubusercontent.com/64833579/128039282-0e6645bd-a5ed-4631-8df1-04979ada3f51.gif)
 
 
 
