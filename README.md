@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyamSingh18
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in DS/ML/DL/AI.
+- 🌱 I’m currently Exploring Machine Learning.
 - 📫 Reach me at 7888472926
 
 - while noSuccess: \
