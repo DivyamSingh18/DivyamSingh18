@@ -2,6 +2,7 @@
 - 👀 I’m interested in DS/ML/DL/AI.
 - 🌱 I’m currently Exploring Machine Learning.
 - 📫 Reach me at 7888472926
+- check my Portfolio at https://divyamsingh18.github.io/Portfolio-and-Resume/
 
 - while noSuccess: \
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tryAgain() \
