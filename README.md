@@ -3,6 +3,7 @@
 - 🌱 I’m currently Exploring Machine Learning.
 - 📫 Reach me at 7888472926
 - check my Portfolio at https://divyamsingh18.github.io/Portfolio-and-Resume/
+- check my Resume at https://drive.google.com/file/d/1B6wTzHRmQsNejDE867FqvvT0c5W-Rf5Z/view?usp=sharing
 
 - while noSuccess: \
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tryAgain() \
